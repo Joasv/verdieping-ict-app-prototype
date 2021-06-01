@@ -1,0 +1,16 @@
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\bin\Debug\net5.0\PrototypeClient.exe
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\bin\Debug\net5.0\PrototypeClient.deps.json
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\bin\Debug\net5.0\PrototypeClient.runtimeconfig.json
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\bin\Debug\net5.0\PrototypeClient.runtimeconfig.dev.json
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\bin\Debug\net5.0\PrototypeClient.dll
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\bin\Debug\net5.0\ref\PrototypeClient.dll
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\bin\Debug\net5.0\PrototypeClient.pdb
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.csprojAssemblyReference.cache
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.AssemblyInfoInputs.cache
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.AssemblyInfo.cs
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.csproj.CoreCompileInputs.cache
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.dll
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\ref\PrototypeClient.dll
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.pdb
+C:\Users\joasv\Documents\School\Verdieping ICT\PrototypeClient\obj\Debug\net5.0\PrototypeClient.genruntimeconfig.cache
